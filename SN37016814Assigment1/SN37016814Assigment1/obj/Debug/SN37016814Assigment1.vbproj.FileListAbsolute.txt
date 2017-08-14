@@ -1,0 +1,13 @@
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\bin\Debug\SN37016814Assigment1.exe.config
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\bin\Debug\SN37016814Assigment1.exe
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\bin\Debug\SN37016814Assigment1.pdb
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\bin\Debug\SN37016814Assigment1.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.Resources.resources
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.vbproj.GenerateResource.Cache
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.exe
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.xml
+c:\users\nyathi\documents\visual studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.pdb
+C:\Users\Nyathi\Documents\Visual Studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.Main_Form.resources
+C:\Users\Nyathi\Documents\Visual Studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.Events_form.resources
+C:\Users\Nyathi\Documents\Visual Studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.Results_form.resources
+C:\Users\Nyathi\Documents\Visual Studio 2012\Projects\SN37016814Assigment1\SN37016814Assigment1\obj\Debug\SN37016814Assigment1.member_Form.resources
